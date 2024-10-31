@@ -52,9 +52,9 @@ This project is a Node.js web scraper built with [Puppeteer](https://pptr.dev/),
 
 ## Connect with Me
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/your-profile-link) **Fiverr Profile**
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/toqeerhaider597) **Fiverr Profile**
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~your-profile-link) **Upwork Profile**
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bbd0b4facc5ae5ba) **Upwork Profile**
 
 ## License
 
