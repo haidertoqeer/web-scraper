@@ -50,10 +50,18 @@ This project is a Node.js web scraper built with [Puppeteer](https://pptr.dev/),
 - It extracts book titles and descriptions from elements matching `.service-item` on the page.
 - The extracted data is saved in a `books.json` file.
 
+## Connect with Me
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/your-profile-link) **Fiverr Profile**
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~your-profile-link) **Upwork Profile**
+
 ## License
 
 This project is open-source. Feel free to use and modify it as needed.
 
---- 
+---
 
-Replace `<your-repo-url>` with the actual URL of your repository.
+### Notes:
+- Replace `<your-repo-url>` with your GitHub repository link.=
+- The badges from Shields.io will automatically display the icons alongside the text for Fiverr and Upwork.
